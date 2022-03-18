@@ -25,10 +25,10 @@
    <a href="home.php" class="logo">ReiseBüro.</a>
 
    <nav class="navbar">
-      <a href="home.php">Startseite</a>
-      <a href="about.php">Über Uns</a>
-      <a href="package.php">Reise-Paket</a>
-      <a href="book.php">Buchen</a>
+      <a href="startseite.php">Startseite</a>
+      <a href="ueberuns.php">Über Uns</a>
+      <a href="paket.php">Reise-Paket</a>
+      <a href="buchen.php">Buchen</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
